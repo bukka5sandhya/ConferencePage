@@ -1,0 +1,48 @@
+.bg-container{
+    background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/conference-img.png");
+    background-size:cover;
+    height:100vh;
+
+}
+.card-container{
+    background-color:white;
+    text-align:center;
+
+}
+.main-heading{
+    font-family:'Roboto';
+    font-size:30px;
+    color:#183b56;
+    font-weight:bold;
+    padding:10px;
+    
+}
+.para{
+    color:#5a7184;
+    font-family:'Roboto';
+    font-size:20px;
+    padding:10px;
+}
+.button{
+    border-width:0px;
+}
+.conference-stats{
+    margin-top:20px;
+    margin-bottom:20px;
+    margin-left:20px;
+    margin-right:20px;
+    padding:20px;
+}
+.container-heading{
+    font-family: 'Roboto';
+    font-size:25px;
+    color:#183b56;
+    font-weight:bold;
+}
+.container-para{
+    font-family:'Roboto';
+    font-size:20px;
+    color:#5a7184;
+    padding:10px;
+
+}
